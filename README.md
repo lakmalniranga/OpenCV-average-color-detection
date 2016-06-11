@@ -6,7 +6,7 @@ This will detect image average color using OpenCV, then we can find out what is 
 2. PyQT 4
 
 ### Usage
-1. Detect pixel dots on the image
+1. Detect pixel dot color on the image
 2. Average color for entire image in RGB format
 3. Detect darkest and lightest color
 
